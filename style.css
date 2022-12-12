@@ -1,0 +1,19 @@
+body{
+    font-family: serif,'Times New Roman', Times, serif;
+}
+
+li > a{
+    text-decoration: none;
+    list-style: none;
+    color: red;
+    margin-left:-2.5em;
+    line-height: 2em;
+}
+h1{
+    color: red;
+}
+
+ul{
+    list-style: none;
+  
+}
